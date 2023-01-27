@@ -7,11 +7,12 @@
 fn main() {
    let x = 5;
    // Fill the blank
-   let p = __;
+   let y = __;
 
-   println!("the memory address of x is {:p}", p); // One possible output: 0x16fa3ac84
+   println!("the memory address of x is {:p}", y); // One possible output: 0x16fa3ac84
 }
 ```
+> https://doc.rust-lang.org/std/fmt/#formatting-traits
 
 2. 🌟
 ```rust,editable
